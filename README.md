@@ -146,6 +146,3 @@ instagram_dashboard/
 ```
 
 
----
-
-*This project demonstrates the integration of Hadoop-based data processing with interactive visualization for Instagram engagement analytics.*
