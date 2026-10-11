@@ -32,32 +32,6 @@ The project uses **HDFS, Apache Pig, Hadoop MapReduce, and Apache Hive** for dat
 | Plotly            | Interactive charts                  |
 | DT                | Interactive data tables             |
 
-## 📂 Project Workflow
-
-
-Instagram Analytics Dataset
-          ↓
-         HDFS
-          ↓
- Apache Pig
-(Data Cleaning and Transformation)
-          ↓
- Processed Data in HDFS
-          ↓
-   ┌──────┴──────┐
-   ↓             ↓
-MapReduce       Hive
-   ↓             ↓
-   └──────┬──────┘
-          ↓
-   Analytical Results
-
-Cleaned CSV Dataset
-          ↓
-    R Shiny Dashboard
-          ↓
- KPIs, Charts and Data Explorer
-
 
 ## 📊 Dataset
 
